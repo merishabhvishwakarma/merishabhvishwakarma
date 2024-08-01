@@ -1,3 +1,2 @@
 - 👋 Hi, I’m rishabhvishwakarma
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning ...
